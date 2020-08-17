@@ -1,5 +1,4 @@
 ## Hey there, I'm Jay!
-<img align='right' src="https://s7.gifyu.com/images/maxresdefault2ee092769f0b9517.jpg">
 
 - 🎓 I'm currently pursuing **Data Analytics Degree** from **Imarticus Learning, Pune**.
 - 🎓 I have already completed my **M.Sc Integrated Course** in year 2018 from **NIT, Surat**
