@@ -15,6 +15,6 @@ def jay():
 ```
 
 ## Connect me on:
-- LinkedIn: https://www.linkedin.com/in/jay-hingrajiya-6a6061b4/
+- LinkedIn: https://www.linkedin.com/in/jay-hingrajiya/
 
 _**Have a Great Future Ahead** and Hope you will do something useful for **Data Science Community**
